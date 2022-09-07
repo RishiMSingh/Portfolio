@@ -48,5 +48,5 @@
   },
   "overrides": {
     "autoprefixer": "10.4.5"
-}
+  }
 }
