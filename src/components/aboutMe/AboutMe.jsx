@@ -12,8 +12,8 @@ function AboutMe() {
      </div>
      <div className="about__text">
        <h1>ABOUT ME</h1>
-       <p>Hi, I'm <b>Rishi </b>currently I am pursuing a Masters degree in Machine Learning with a graduation date of July 2023.</p>
-       <p><b>What am I currently doing?</b> I am a student at Stevens Institute of Technology developing my technical and theoretical knowledge in Machine Learning. Along with my studies I am researching and implementing machine learning and artificial intelligence techniques specifically convolution neural networks to classify fetal ultrasound images into correct and incorrect categories. I have also been working on my full stack development skills by creating an interactive dashboard for a travel-tech blockchain start up.</p>
+       <p>Hi, I'm <b>Rishi </b>currently I working at CitiBank as a Software Engineer (ML). I graduated from my Masters degree in Machine Learning in May 2023.</p>
+       <p><b>What am I currently doing?</b>I am a student at Stevens Institute of Technology developing my technical and theoretical knowledge in Machine Learning. Along with my studies I am researching and implementing machine learning and artificial intelligence techniques specifically convolution neural networks to classify fetal ultrasound images into correct and incorrect categories. I have also been working on my full stack development skills by creating an interactive dashboard for a travel-tech blockchain start up.</p>
 
 <p><b>My Aspirations:</b> I want to develop my knowledge of technology and be involved with upcoming machine learning & artificial intelligence projects.
 
